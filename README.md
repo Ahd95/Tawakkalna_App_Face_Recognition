@@ -3,7 +3,7 @@
 ![Screenshot 2022-01-20 002234](https://user-images.githubusercontent.com/93244403/150216003-7ed49ee6-ba67-4e41-9692-1928808e2a84.png)
 
 
-## Motion graphic video explaining the problem statement
+## Motion Graphic Video Explaining The Problem Statement
 [![Img Alt Text](https://user-images.githubusercontent.com/93244403/150767536-6080872b-aca7-4531-a058-522cf738b055.jpeg)](https://youtu.be/6R8ChxJuhqk)
 
 ### Objective:
